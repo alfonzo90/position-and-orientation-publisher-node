@@ -14,16 +14,16 @@ The idea behind this script is making a node that can command the robot to move 
 
 ## charging station coordinates
 
-  position
-      x:0.5
-      y:-0.2
-      z:0.0
+position
+* x:0.5
+* y:-0.2
+* z:0.0
       
-  orientation
-      x:0.0
-      y:0.0
-      z:0.0
-      w:1.0
+orientation
+* x:0.0
+* y:0.0
+* z:0.0
+* w:1.0
       
       
 ## test run
