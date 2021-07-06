@@ -1,4 +1,4 @@
-# turtlebot3-charging-station
+# position-and-orientation-publisher-node
 A documentation of how I made a ROS publisher node that moves the robot to hardcoded coordinates
 
 These steps pick up right after the navigation simulation repository
